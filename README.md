@@ -1,1 +1,2 @@
 # KoreaTechHerald
+# by Lucas
